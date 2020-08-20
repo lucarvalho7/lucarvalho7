@@ -7,3 +7,5 @@
 I study Computer Science and do some projects as a Front-End developer. 💻
 
 Enthusiast of the best web development technologies.
+
+⚡ Fun fact Oneye 😜
