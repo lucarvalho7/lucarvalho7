@@ -1,8 +1,14 @@
-### Hey, I'm Luciano Carvalho! 👋
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@lucarvalho7-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/lucarvalho7)](https://twitter.com/lucarvalho7) 
-[![Linkedin Badge](https://img.shields.io/badge/-Luciano%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/luciano-carvalho-66012016a/)](https://linkedin.com/in/luciano-carvalho-66012016a/) 
-[![Gmail Badge](https://img.shields.io/badge/-lucianocarvallho7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianocarvallho7@gmail.com)](mailto:lucianocarvallho7@gmail.com)
+```diff
+Hey, I'm Luciano Carvalho 👩‍💻.
+
+@@I'm Computer science@@
++ Living in Suzano - SP, Brazil 🇧🇷.
+- 22 years old
+# 📖  Web development, programming languages. 
+```
 
 I study Computer Science and do some projects as a Front-End developer. 💻
 
